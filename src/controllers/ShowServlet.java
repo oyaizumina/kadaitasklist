@@ -45,4 +45,3 @@ public class ShowServlet extends HttpServlet {
         rd.forward(request, response);
     }
 }
-
